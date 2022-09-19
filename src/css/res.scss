@@ -1,0 +1,329 @@
+@import "--var.scss";
+@import "--mixing.scss";
+@media (max-width: 576px) {
+  .mining_iner_logo {
+    width: 11rem;
+    height: 2rem;
+  }
+  .mining_iner_div {
+    width: 100%;
+  }
+  .affiliate_terms {
+    ul {
+      li {
+        font-size: 14px;
+      }
+    }
+  }
+  .affiliate_table {
+    padding: 0 10px;
+  }
+  .affiliate_table_text {
+    ul {
+      li {
+        font-size: 14px;
+      }
+    }
+  }
+  .contact_page_link {
+    a {
+      font-size: 14px;
+    }
+    p {
+      font-size: 14px;
+    }
+  }
+  .contact_page_icon_div {
+    .row {
+      padding-left: 15px;
+    }
+  }
+  .contact_page_btn_div {
+    text-align: center;
+  }
+  .contact_page_title_div {
+    text-align: center;
+    h3 {
+      font-size: 25px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+  .contact_page_input {
+    margin-bottom: 10px;
+  }
+  .terms {
+    border: none;
+    padding: 0;
+    border-radius: 0;
+    p {
+      font-size: 14px;
+    }
+    h3 {
+      text-align: center;
+    }
+    ul {
+      padding: 0;
+      li {
+        font-size: 14px;
+      }
+    }
+  }
+  .page_top_name {
+    font-size: 18px;
+  }
+  .page_top_img {
+    a {
+      font-size: 18px;
+    }
+  }
+  .page_top_slash {
+    font-size: 25px;
+  }
+  .payout_table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .faq_tab {
+    button {
+      font-size: 14px;
+    }
+  }
+  .faq_body {
+    font-size: 14px;
+  }
+  .faq_header {
+    a {
+      font-size: 14px;
+    }
+  }
+  .about_banner {
+    h1 {
+      font-size: 21px;
+    }
+    p {
+      font-size: 13px;
+    }
+  }
+  .about_banner_text_div {
+    text-align: center;
+  }
+  .about_video_div {
+    margin-top: 0;
+  }
+  .about_li {
+    margin-bottom: 15px;
+    text-align: initial;
+  }
+  .about_ul {
+    font-size: 14px;
+  }
+  .about_p {
+    font-size: 14px;
+    text-align: justify;
+  }
+  .socle_div {
+    float: unset;
+    padding: 0;
+    margin-top: 2rem;
+    text-align: center;
+    li {
+      margin: auto;
+    }
+  }
+  .noti_btn {
+    font-size: 16px;
+  }
+  .card_img {
+    width: 4rem;
+  }
+  .noti_img {
+    height: 100%;
+    padding: 1rem;
+    h3 {
+      font-size: 27px;
+    }
+  }
+  .about_img {
+    width: 18rem;
+    height: 11rem;
+    margin: auto;
+  }
+
+  .about_text {
+    p {
+      font-size: 14px;
+    }
+  }
+  .info_img {
+    height: 10rem;
+  }
+
+  .info_bg {
+    p {
+      font-size: 14px;
+    }
+  }
+  .contact_div_index_text_div {
+    p {
+      font-size: 15px;
+      margin-bottom: 1rem;
+    }
+  }
+  .contact_div_index {
+    padding: 1rem;
+    border-radius: 0;
+  }
+  .why_choos_us_user_name_img {
+    width: 9rem;
+    height: 1rem;
+    margin-top: 1rem;
+  }
+  .why_choos_us_user_img {
+    width: 5rem;
+    height: 5rem;
+    margin: auto;
+  }
+
+  .why_choos_us_bg_img {
+    text-align: center;
+    p {
+      font-size: 14px;
+      margin-bottom: 2rem;
+    }
+  }
+  .why_choos_us_vido {
+    height: 14rem;
+  }
+  .why_choos_us_bg_img {
+    height: 100%;
+  }
+  .title_all {
+    margin-bottom: 1rem;
+    h3 {
+      font-size: 22px;
+      font-weight: 500;
+    }
+    hr {
+      width: 7rem;
+    }
+  }
+  .poster_bg {
+    padding: 20px 20px;
+  }
+  .poster_main_div {
+    margin-bottom: 2rem;
+  }
+  .banner_btn {
+    text-align: center;
+    .button_my {
+      margin: 0;
+    }
+  }
+  .hero_img {
+    height: 28rem;
+  }
+  .banner_text_div {
+    justify-content: center;
+    img {
+      width: 15px;
+    }
+  }
+  .banner_text {
+    font-size: 15px;
+  }
+  .banner_overlay {
+    height: 28rem;
+    h1 {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      font-size: 40px;
+      text-align: center;
+    }
+  }
+
+  .banner_overlay {
+    padding: 0rem 1rem;
+    padding-top: 1rem;
+  }
+  .banner2_img {
+    height: 2rem;
+    margin: auto;
+    width: 100%;
+  }
+}
+@media (min-width: 768px) {
+  .payout_table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .about_img {
+    height: 27rem;
+    margin-top: 0;
+  }
+  .info_img {
+    height: 23rem;
+  }
+  .why_choos_us_bg_img {
+    height: 100%;
+  }
+  .poster_img {
+    width: 100%;
+  }
+  .poster_img_text {
+    p {
+      font-size: 13px;
+    }
+  }
+}
+@media all and (min-width: 992px) {
+  .navbar .nav-item .dropdown-menu {
+    display: none;
+  }
+  .navbar .nav-item:hover .nav-link {
+    color: #fff;
+  }
+  .navbar .nav-item:hover .dropdown-menu {
+    display: block;
+  }
+  .navbar .nav-item .dropdown-menu {
+    margin-top: 0;
+  }
+}
+@media (min-width: 1024px) {
+  .payout_table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+  .about_img {
+    height: 17rem;
+    margin-top: 6rem;
+  }
+  .info_img {
+    height: 18rem;
+  }
+  .poster_img_text {
+    p {
+      font-size: 14px;
+    }
+  }
+  .poster_img {
+    width: 16rem;
+  }
+}
+@media (min-width: 1440px) {
+  .payout_table {
+    display: inline-table;
+  }
+  .about_img {
+    height: 20rem;
+    margin-top: 6rem;
+  }
+}
+
+@media (min-width: 2000px) {
+}
